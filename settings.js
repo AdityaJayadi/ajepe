@@ -30,7 +30,7 @@ global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -41,24 +41,24 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.botname = "RarcBot-Mdོ" //namabot kalian
+global.ownername = "AdityaJPutra" //nama kalian
+global.myweb = "https://instagram.com/adityajputra" //bebas asal jan hapus
+global.youtube = "https://instagram.com/c/adityajputra" //bebas asal jan hapus
+global.myweb2 = "https://instagram.com/adityajputra" //bebas
+global.email = "adityajp666@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone list : https://www.php.net/manual/en/timezones.php 
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62821931157232"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.premium = ['62881023471561'] //premium user
+global.owner = ["62881023471561", "62881023471561"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "62881023471561" // nomor wa kalian
+global.ownernomerr = "+62881023471561" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© RarcBot-Mdོ' //sticker wm ubah
+global.author = 'By @adityajputra' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
 global.typemenu = 'document' //
